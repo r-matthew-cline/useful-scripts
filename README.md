@@ -39,8 +39,7 @@ can use an IAM user's credentials to run commands.
 ### Dependencies
 
 - awscli
-- two profiles in $HOME/.aws/config and $HOME/.aws/credentials, the .aws directory in this
-repo shows examples of what those profiles need in them
+- two profiles in $HOME/.aws/config and $HOME/.aws/credentials, the .aws directory in this repo shows examples of what those profiles need in them
 
 ### Running the Script
 
